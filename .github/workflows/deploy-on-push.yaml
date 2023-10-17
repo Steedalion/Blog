@@ -12,6 +12,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
   log:
+    runs-on: ubuntu-latest
     needs: checkout
     steps:
       - run: mkdir ./docs/deploy
@@ -22,8 +23,8 @@ jobs:
       - run: pwd
       - run: ls -a
   mkdocs-deploy:
-    needs: log
     runs-on: ubuntu-latest
+    needs: log
     steps:
       - run: pip install mkdocs
       - run: python | mkdocs gh-deploy --force
