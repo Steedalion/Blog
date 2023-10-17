@@ -1,4 +1,4 @@
-While data based applications for machines are becoming more prevalent, their human counterpart has lagged behind. This is largely due to challenges in measuring and modelling. 
+braWhile data based applications for machines are becoming more prevalent, their human counterpart has lagged behind. This is largely due to challenges in measuring and modelling. 
 
 # Measuring challenges
 
