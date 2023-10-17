@@ -11,8 +11,10 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-      - run: echo "The branch is ${{ github.ref }} by ${{ github.actor}}" >> ./docs/info.md
+      - run: mkdir ./docs/deploy
+      - run: echo "The branch is ${{ github.ref }} by ${{ github.actor}}" >> ./docs/deploy/info.md
       - run: pip install mkdocs
+      - run: git branch
       - run: pwd
       - run: ls -a
-      - run: python | mkdocs gh-deploy
+      - run: python | mkdocs gh-deploy --force
