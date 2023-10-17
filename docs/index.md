@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Welcome
 
 I'm a world-class scientist in the making.
 
