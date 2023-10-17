@@ -13,6 +13,8 @@ jobs:
         uses: actions/checkout@v3
       - run: mkdir ./docs/deploy
       - run: echo "The branch is ${{ github.ref }} by ${{ github.actor}}" >> ./docs/deploy/info.md
+      - run: echo "MY_DATE=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+      - run: echo "${{ env.MY_DATE }}" >> ./docs/deploy/info.md
       - run: pip install mkdocs
       - run: git branch
       - run: pwd
