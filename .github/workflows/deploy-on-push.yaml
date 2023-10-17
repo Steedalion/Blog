@@ -6,3 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "testing"
+  mkdocs-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - run: pip install mkdocs
