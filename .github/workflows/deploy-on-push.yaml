@@ -6,17 +6,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "testing"
-  mkdocs-deploy:
+  checkout:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+  log:
+    needs: checkout
+    steps:
       - run: mkdir ./docs/deploy
       - run: echo "The branch is ${{ github.ref }} by ${{ github.actor}}" >> ./docs/deploy/info.md
-      - run: echo "MY_DATE=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+      - run: echo "MY_DATE=$(date +%Y %m %d %H %M)" >> $GITHUB_ENV
       - run: echo "${{ env.MY_DATE }}" >> ./docs/deploy/info.md
-      - run: pip install mkdocs
       - run: git branch
       - run: pwd
       - run: ls -a
+  mkdocs-deploy:
+    needs: log
+    runs-on: ubuntu-latest
+    steps:
+      - run: pip install mkdocs
       - run: python | mkdocs gh-deploy --force
