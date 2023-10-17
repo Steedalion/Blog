@@ -1,5 +1,6 @@
 name: deploy on push
 run-name: ${{github.actor}} is testing actions
+on: [push]
 jobs:
   Explore:
     runs-on: ubuntu-latest
