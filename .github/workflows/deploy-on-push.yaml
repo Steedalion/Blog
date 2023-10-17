@@ -16,4 +16,4 @@ jobs:
       - run: git branch
       - run: pwd
       - run: ls -a
-      - run: python | mkdocs gh-deploy
+      - run: python | mkdocs gh-deploy --force
