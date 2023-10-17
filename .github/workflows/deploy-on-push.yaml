@@ -10,4 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: pip install mkdocs
+      - run: pwd
+      - run: ls
       - run: mkdocs gh-deploy
