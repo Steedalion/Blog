@@ -16,3 +16,7 @@ In our investigation we take a general systems approach where "a law must be dem
 Chapter 3 builds on these novel implementations as demonstrations. It illustrates the general human performance data can be measured from the virutal workstations. It validates the measurements against well established models and illustrates that novel insights can be achieved by enriching existing models. This again illustrates using the design science approach of gaining knowledge based on artefacts and insights gained from prior artefacts.
 
 Chapter 2 then provides a vocabulary for implementing human-centric data-driven systems as a conjecture. It can be applied more generally but acknowledges the cost of human labour in these simulations as an ethical constraint. Chapter 6 reflects the implementations (3,4,5) through the lens initially proposed (2), bringing to conclusion the investigation (6).
+
+
+
+ ![Investigation](C:\Users\steed\Nextcloud6\Blog\blog\images\Investigation.png)
