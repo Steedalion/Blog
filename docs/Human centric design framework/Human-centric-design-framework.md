@@ -12,7 +12,13 @@ In response, more homogeneous metrics include sustainability. For example the [U
 
 Prior to automation, the clock was the best measure of performance, productivity, and efficiency. Taylor from the engineering school of management popularised the Time-and-motion study which led to significant increases in productivity. In this method a job is broken down into simple individual motions, measured with a stopwatch, and unnecessary motions are eliminated.
 
-While this led to advances in productivity, this crude system models humans as machines and would be considered unethical today. On the other, hand this method lends itself well to automating via industrial robots. 
+While this led to advances in productivity, this crude system models humans as machines and would be considered unethical today. On the other, hand this method lends itself well to automation. 
+
+## Fordism
+
+Fordism took this effeciency to a larger scope. By noticing the effeciency gains of economy of scale, that 
+
+
 
 While some interpret industrial automation as displacing human operators, many in manfuacturing appreaciate that it elevated the role of human operators from a resource for completing mundane tasks, to one that is recognized and appreciated. Humans are now appreciated for their flexibility and adaptability. 
 
