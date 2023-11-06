@@ -9,10 +9,14 @@ The database (DB) example illustrates how different states of a DB are tested wi
 
 ## Digital mocking
 
+Digital mocking is this pattern specialized to the digital twin. The interface is now used to obscure the replacement of the physical component with its digital twin.
+
 
 
 While this approach is common in the domain of industrial robots, where high-fedlity physics simulation environments are employed. Hence, we first applied this pattern to the digital twin concept for development and testing purposes of an industrial robotic assembly cell [Industrial robot]. The facilitated the creative insight that eye-in-hand cameras and fixed cameras could be used for reconfigurable feeding.
 
-More recently
+## Human-centric digital mocking
+
+While substituting a human operator with a computational human performance model is feasible for large scale simulation, it ignores the wicked nature of socio-technical systems[]. Therefore HIL simulations may still be necessary. 
 
 We further specialize it to facilitate human-centric designs using virtual reality.
