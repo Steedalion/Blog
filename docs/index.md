@@ -1,6 +1,6 @@
 # Welcome
 
-I'm a world-class scientist in the making.
+I'm a world-class scientist in the making. Aspiring teacher/lecturer. Finding it hard explaining myself.
 
 ![Profile_pic](images/Profile_pic.jpg)
 
