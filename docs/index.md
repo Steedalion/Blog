@@ -1,4 +1,4 @@
-# Welcome
+# About me
 
 I am an engineering lecturer at the University of Stellenbosch, South Africa. 
 
