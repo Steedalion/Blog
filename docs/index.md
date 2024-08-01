@@ -1,6 +1,10 @@
 # Welcome
 
-I'm a world-class scientist in the making. Aspiring teacher/lecturer. Finding it hard explaining myself.
+I am an engineering lecturer at the University of Stellenbosch, South Africa. 
+
+My research investigating manufacturing systems spanning Mechanical, Mechatronic, and Industrial Engineering. I am currently investigating virtual prototyping and commissioning of manufacturing assembly systems. This typically takes the form of using simulation to develop factory applications. Two examples are (1) Intelligent industrial robot application, including communication and data acquisition, using in virtual/ simulated environments and (2) human assembly environments using virtual reality to simulate tasks, equipment, and system level intelligence.
+
+I hold a Bachelors in Mechanical Engineering and a Masters in Mechatronic Engineering from Stellenbosch University, and a PhD in Mechanical Engineering from [UNIST](https://www.unist.ac.kr/), South Korea.
 
 ![Profile_pic](images/Profile_pic.jpg)
 
