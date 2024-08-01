@@ -6,7 +6,7 @@ My research investigating manufacturing systems spanning Mechanical, Mechatronic
 
 I hold a Bachelors in Mechanical Engineering and a Masters in Mechatronic Engineering from Stellenbosch University, and a PhD in Mechanical Engineering from [UNIST](https://www.unist.ac.kr/), South Korea.
 
-![Profile_pic](images/Profile_pic.jpg)
+<center><img src="images/Profile_pic.jpg" alt="Profile_pic" /></center> 
 
 This is where I share my bright ideas. This is in no way an egotistical exercise, so if you don't like what I'm saying feel free to [contact-me](mailto:csteed@ieee.org) recommending any changes. 
 
