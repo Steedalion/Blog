@@ -14,17 +14,13 @@ It is crucial to create a nurturing environment conducive to success and guiding
 
 Developing individuals who can transform an idea into reality is a delicate balance of nurturing and empowering, rather than instructing. Through applying their skills, students grow both confident and competent. My goal is to create environments and opportunities for progressive learning, allowing students to exercise autonomy. “We grow through people and projects,” and these habits are best cultivated through practice, not lectures. Ultimately, my aim is to develop individuals to a point where they no longer need me, fully equipped to make their own impact on the world. When I ask a complex/contextual exam question and receive meaningful answers, I a have made my contribution towards a better society.
 
-
-
-### Modules taught
+## Modules taught
 
 | Year | Module                   | Students        |
 | ---- | ------------------------ | --------------- |
 | 2024 | Manufacturing System 314 | 120 third years |
 
-
-
-### Post-graduate Supervision
+## Post-graduate Supervision
 
 | Number | Year    | Name                 | Title                                                        |
 | ------ | ------- | -------------------- | ------------------------------------------------------------ |
