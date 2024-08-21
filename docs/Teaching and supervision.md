@@ -19,12 +19,13 @@ Developing individuals who can transform an idea into reality is a delicate bala
 | Year | Module                   | Students        |
 | ---- | ------------------------ | --------------- |
 | 2024 | Manufacturing System 314 | 120 third years |
+| 2024 | Production managment 212 | 120 second years |
 
 ## Post-graduate Supervision
 
 | Number | Year    | Name                 | Title                                                        |
 | ------ | ------- | -------------------- | ------------------------------------------------------------ |
-| 1      | 2024/25 | Waldo Jordaan (MEng) | Car as the cloud vehicle opportunities for automated vehicle programming |
+| 1      | 2024/25 | [Waldo Jordaan](https://www.linkedin.com/in/jordaanw/) (MEng) | Car as the cloud vehicle opportunities for automated vehicle programming |
 | 2      | 2024/25 | Jacob Wafula (MEng)  | Active design of experiments for SLM printing of dental implants |
 |        |         |                      |                                                              |
 
