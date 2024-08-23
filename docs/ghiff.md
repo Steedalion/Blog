@@ -4,10 +4,18 @@ Micro-informal settlements are communities that have emerged in unexpected areas
 
 In this project, we developed a solar PV system specifically for micro-informal settlement communities.
 
+![](ghiff_photo.png)
+
+*Photograph of the community members with the prototype.*
+
 Through interviews with the community, we translated their behavior into functional requirements, such as lighting, USB charging for smartphones, and extensions for radio, as well as battery demand size. The devices will be installed in six homes within the community for a two-week period, after which the residents will be interviewed to assess the impact and suggest improvements to the system.
+
+![](ghiff_proto.png)
+
+*The prototype housing (left), the battery and charge controller added (center), and the physical device.*
 
 The estimated payback time for the system is six months, replacing the use of candles. Unforeseen benefits include a reduced risk of fires and decreased asthma in children due to the elimination of candles.
 
 Micro-informal settlements are often neglected due to their size, yet their modest needs make them ideal candidates for the transition to renewable energy. The authors hope this work will prompt a rethinking of the challenges posed by sparse communities in the global south.
 
-This project was made possible through the generous donation from [Lean Energy](www.leanenergy.co.za).
+This project was conceived and realized in partnership with [Lean Energy](http://www.leanenergy.co.za).
