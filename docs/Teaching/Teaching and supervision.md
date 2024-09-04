@@ -29,9 +29,9 @@ Developing individuals who can transform an idea into reality is a delicate bala
 
 ## Post-graduate Supervision
 
-| Number | Year    | Name                 | Title                                                        |
-| ------ | ------- | -------------------- | ------------------------------------------------------------ |
+| Number | Year    | Name                                                         | Title                                                        |
+| ------ | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1      | 2024/25 | [Waldo Jordaan](https://www.linkedin.com/in/jordaanw/) (MEng) | Car as the cloud vehicle opportunities for automated vehicle programming |
-| 2      | 2024/25 | Jacob Wafula (MEng)  | Active design of experiments for SLM printing of dental implants |
-|        |         |                      |                                                              |
+| 2      | 2024/25 | Jacob Wafula (MEng)                                          | Active design of experiments for SLM printing of dental implant |
+|        |         |                                                              |                                                              |
 
