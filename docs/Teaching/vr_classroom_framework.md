@@ -24,3 +24,7 @@
 ![](vr_framework_media.jpg)
 
 **Local Implications:** The project demonstrated VR's value in teaching and developed a framework for its sustainable inclusion in the Faculty of Engineering. It highlighted that the cost of VR systems is lower than expected and emphasized the value of student involvement in development. The PANAS framework will be used in long-term studies to assess the impact of technology comfort. This effort supports the Faculty of Engineering Virtual Reality User Area (FEVRUA) in expanding VR teaching across faculties.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e6NErsYYsXE?si=B9m00utE33amleP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
