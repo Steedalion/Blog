@@ -20,3 +20,18 @@ jobs:
       - run: echo "${{ env.MY_DATE }}" >> ./docs/deploy/info.md
       - run: pip install mkdocs
       - run: python | mkdocs gh-deploy --force
+      - name: Set up Python
+        uses: actions/setup-python@v4
+          with: python-version: '3.x'  # or specify the exact version you need
+
+      - name: Install mkdocs in virtual environment
+        run: |
+        python -m venv .venv
+        source .venv/bin/activate
+        pip install mkdocs
+
+      - name: Build documentation with mkdocs
+        run: |
+          source .venv/bin/activate
+          python | mkdocs gh-deploy --force
+    
