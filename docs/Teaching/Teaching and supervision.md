@@ -14,7 +14,7 @@ Creating a nurturing environment conducive to success is essential. While good i
 
 ![](Cocreation.svg)
 
-*A model of maturity for individuals within an organisation[^Covey] applied to teaching starts with instructing the students (dependence),  having them perform independently [^zpd], and finally having them co-create.*
+*A model of maturity for individuals within an organisation[^Covey] applied to teaching starts with instructing the students (dependence),  having them perform independently (zone of proximal development) [^zpd], and finally having them co-create.*
 
 [^Covey]: Covey, Stephen (1989). *The 7 Habits of Highly Effective People*.
 
@@ -56,7 +56,7 @@ These three pillars form an intrinsic motivation framework for developing profes
 
 ### Questions that placing students as professionals
 
-I use questioning techniques to immerse students in their professional roles[^roleplay], deepening their understanding of ethical and societal responsibilities. When introducing a new concept, I present scenarios that require real-world decision-making. First, I role-play by posing a question as if they were professionals: "You are consulted on a project and asked to decide whether a SCADA or IoT system is appropriate." Next, we explore boundaries through extreme values, such as, "The system requires high cybersecurity and should not introduce additional risks." Finally, students reflect and communicate professionally by justifying their answers to a client. This approach builds confidence and conveniently serves as a method for creating effective exercise questions.
+I use questioning techniques to immerse students in their professional roles[^roleplay] , deepening their understanding of ethical and societal responsibilities. When introducing a new concept, I present scenarios that require real-world decision-making. First, I role-play by posing a question as if they were professionals: "You are consulted on a project and asked to decide whether a SCADA or IoT system is appropriate." Next, we explore boundaries through extreme values, such as, "The system requires high cybersecurity and should not introduce additional risks." Finally, students reflect and communicate professionally by justifying their answers to a client. This approach builds confidence and conveniently serves as a method for creating effective exercise questions.
 
 [^roleplay]: Role Play – Engagement in Engineering Education, 2021. URL https://publish.illinois.edu/siipcompendium/2021/08/19/role-play/ (accessed 9.27.24).
 
@@ -66,12 +66,12 @@ Resulting question:
 
 ## Play
 
-I am inspired by the concept of play as a tool for lifelong learning. "*Interest begat knowledge, not the other way around*". For example, making failure enjoyable motivates learners to keep trying. Play encourages autonomy, a trait often suppressed in traditional education. Vygotsky emphasized plays role in development and self-regulation[^Vygo], while Dewey[^Dewey] likened children’s natural experimentation to scientific inquiry.
+I am inspired by the concept of play as a tool for lifelong learning. "*Interest begat knowledge, not the other way around*". For example, making failure enjoyable motivates learners to keep trying. Play encourages autonomy, a trait often suppressed in traditional education. Vygotsky emphasized plays role in development and self-regulation[^Vygo] , while Dewey likened children’s natural experimentation to scientific inquiry [^Dewey].
 
 [^Vygo]: Smolucha, L., Smolucha, F., 2021. Vygotsky’s theory in-play: early childhood education. Early Child Development and Care 191, 1041–1055. https://doi.org/10.1080/03004430.2020.1843451
 [^Dewey]: Holdo, M., 2023. Critical Reflection: John Dewey’s Relational View of Transformative Learning. Journal of Transformative Education 21, 9–25. https://doi.org/10.1177/15413446221086727
 
-Previously, integrating play into engineering education was limited by rigid curricula. However, the shift towards holistic graduate attributes now supports this approach. Techniques like open canopy learning[^OpenCanopy]help students engage with the real world, fostering professional growth and societal impact.
+Previously, integrating play into engineering education was limited by rigid curricula. However, the shift towards holistic graduate attributes now supports this approach. Techniques like open canopy learning[^OpenCanopy] help students engage with the real world, fostering professional growth and societal impact.
 
 [^OpenCanopy]: Duraisingh, L., Tishman, S., 2024. The Open Canopy Handbook. Harvard Graduate School of Education,.
 
@@ -88,7 +88,7 @@ This approach helps students see themselves as professionals shaping society, bu
 
 ### The Cognitive, affective, systematic
 
-The Cognitive-Affective Systemic (CAS) model was proposed by Alan Tait [^Tait] at the Open university to meet the requirements of remote learning. The CAS Model, integrates cognitive and emotional aspects of learning within a systemic framework for teaching. It emphasizes understanding how students' thoughts, feelings, and environmental contexts interact dynamically to influence learning. This model advocates for personalized, learner-centered approaches, considering the emotional and motivational states of students as essential for effective teaching. It encourages educators to create environments that support cognitive engagement and emotional well-being, ultimately enhancing the learning experience.
+The Cognitive-Affective Systemic (CAS) model was proposed by Alan Tait[^Tait] at the Open university to meet the requirements of remote learning. The CAS Model, integrates cognitive and emotional aspects of learning within a systemic framework for teaching. It emphasizes understanding how students' thoughts, feelings, and environmental contexts interact dynamically to influence learning. This model advocates for personalized, learner-centered approaches, considering the emotional and motivational states of students as essential for effective teaching. It encourages educators to create environments that support cognitive engagement and emotional well-being, ultimately enhancing the learning experience.
 
 [^Tait]: Tait, A., 2000. Planning Student Support for Open and Distance Learning. Open Learning: The Journal of Open, Distance and e-Learning 15, 287–299. https://doi.org/10.1080/713688410
 
