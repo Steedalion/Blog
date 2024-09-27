@@ -1,37 +1,41 @@
 name: deploy on push
-run-name: ${{github.actor}} is testing actions
+run-name: ${{ github.actor }} is testing actions
 on: [push]
 jobs:
   Explore:
     runs-on: ubuntu-latest
     steps:
       - run: echo "testing"
+
   deploy-gh:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+
       - run: git branch
       - run: pwd
       - run: ls -a
-      - run: mkdir ./docs/deploy
-      - run: echo "The branch is ${{ github.ref }} by ${{ github.actor}}" >> ./docs/deploy/info.md
+      - run: mkdir -p ./docs/deploy
+
+      - run: echo "The branch is ${{ github.ref }} by ${{ github.actor }}" >> ./docs/deploy/info.md
+
       - run: echo "MY_DATE=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+
       - run: echo "${{ env.MY_DATE }}" >> ./docs/deploy/info.md
-      - run: pip install mkdocs
-      - run: python | mkdocs gh-deploy --force
+
       - name: Set up Python
         uses: actions/setup-python@v4
-          with: python-version: '3.x'  # or specify the exact version you need
+        with:
+          python-version: '3.x'  # Specify the exact version if needed
 
       - name: Install mkdocs in virtual environment
         run: |
-        python -m venv .venv
-        source .venv/bin/activate
-        pip install mkdocs
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install mkdocs
 
       - name: Build documentation with mkdocs
         run: |
           source .venv/bin/activate
-          python | mkdocs gh-deploy --force
-    
+          mkdocs gh-deploy --force
