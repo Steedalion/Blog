@@ -2,6 +2,20 @@
 
 # Teaching and supervision
 
+## Personal reflection
+
+From a young age, I was captivated by the natural world. Watching Sunday night documentaries and observing ants in the garden, I was fascinated by the stories of great scientists and their discoveries. I still marvel at the wonders of astronomy and how we imagine the cosmos in all its splendor.
+
+Video games also shaped my thinking, focusing on problem-solving and simulations of complex systems. I found comfort in unraveling puzzles and exploring unknown scenarios, which deepened my curiosity and passion for discovery.
+
+Despite my early fascination, my path to academia was not straightforward. Discouraged from taking higher-level courses in high school, I didn’t initially apply to university, even though I excelled in mathematics. I spent two years at a technical university before transferring to a classical one. This detour taught me invaluable lessons: to question everything, trust my instincts, and understand that no system is perfect. These experiences have made me especially empathetic toward students who don’t fit the traditional academic mold or take unconventional paths.
+
+Life is challenging, but pursuing science is worth the struggle. As an academic researcher, I am privileged to explore topics I am passionate about, funded by taxpayers, with the hope of making the world a better place. This career has given me the freedom to indulge in my curiosity, financial stability, and the fulfilment of a lifelong dream.
+
+However, I never felt truly validated until I could help others experience the same joy and curiosity. I see every student as a young researcher fueled by intrigue, even though I am often reminded of their focus on academic scores. This drives my commitment to making students feel welcome, competent, and confident in their academic journeys. I want them to experience the playful curiosity and endless opportunities that scientific inquiry offers.
+
+Academia has given me a strong sense of purpose and the chance to inspire the next generation of scientists. I am deeply grateful for the opportunities it has afforded me and am passionate about helping students navigate their own paths, no matter how unconventional they may be.
+
 ## Teaching philosophy
 
 I am fortunate to teach in one of the most challenging programs at one of the top universities in the country. These students already know how to read a textbook. From this perspective, my role is not merely to summarize content, but to help them realize projects that can benefit society.
@@ -92,9 +106,13 @@ The Cognitive-Affective Systemic (CAS) model was proposed by Alan Tait[^Tait] at
 
 [^Tait]: Tait, A., 2000. Planning Student Support for Open and Distance Learning. Open Learning: The Journal of Open, Distance and e-Learning 15, 287–299. https://doi.org/10.1080/713688410
 
+### Personal growth
+
+My journey in academic teaching has been profoundly influenced by my commitment to personal growth and development. As a participant in the PREDAC program, I’ve engaged with a community of new academics dedicated to enhancing teaching practices. Publishing three conference papers in engineering education has further deepened my understanding of pedagogical strategies. Additionally, completing a FINLO project has allowed me to explore innovative approaches to learning. Being actively involved in the academic community at Stellenbosch University, I continuously strive to refine my teaching methods and contribute meaningfully to the academic landscape.
+
 ### Conclusion
 
-Ultimately, my goal is to nurture confident, competent, and purpose-driven graduates who are equipped to make meaningful contributions to society. By integrating professional practice, play, and a holistic teaching model, I aim to empower students to become transformative leaders in their fields.
+In my teaching and supervision, I strive to foster an environment where students not only acquire knowledge but also develop the confidence, conviction, and competence to apply it meaningfully. By integrating elements of play, professional role-playing, and a deep commitment to personalized learning, I aim to inspire students to see themselves as active contributors to society. My ultimate goal is to nurture lifelong learners and innovative thinkers who are well-equipped to tackle real-world challenges and make a positive impact on their communities and beyond.
 
 ## Modules taught
 
