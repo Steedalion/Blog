@@ -13,7 +13,7 @@ As we strive to develop well-rounded, resilient, and impactful graduates, we adh
 [^SU-GAs]: SU, ‘Graduate Attributes of Stellenbosch University’. Accessed: Dec. 03, 2024. [Online]. Available: https://www.sun.ac.za/english/learning-teaching/student-affairs/about/graduate-attributes
 [^ECSA-GAs]: ‘Qualification Standard for Bachelor of Engineering Technology: NQF Level 7’, E-02-PT, 2016. [Online\]. Available: https://www.ecsa.co.za/education/EducationDocs/E-02-PT.pdf
 
-![Teaching-context](.\Teaching-context.svg)
+![Teaching-context](Teaching-context.svg)
 
 
 
