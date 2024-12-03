@@ -2,7 +2,28 @@
 
 # Teaching and supervision
 
+## Context
+
+I am fortunate to teach in one of the most challenging programs at one of the top universities in the country. These students already know how to read a textbook. From this perspective, my role is not merely to summarize content, but to help them realize projects that can benefit society. The growing class sizes (120+ seniors) and pandemic push towards remote learning appear to have reduced student engagement and attendance. This creates a challenge in balancing autonomy and engagement.
+
+On the other hand, the challenge we face is that students enter our program with varying backgrounds and levels of experience. For instance, some students might have a strong foundation in computer programming from high school, while others may have only used email before starting university. Similarly, one student may own a virtual reality headset, whereas another might not even have a laptop. These diverse range of backgrounds create a challenge for starting points to learning, especiallly in education in a technology dependant doman like engineering. This diversity necessitates a curriculum that is inclusive, engaging, and constructive, catering to a wide range of social and experiential backgrounds.
+
+As we strive to develop well-rounded, resilient, and impactful graduates, we adhere to the graduate attributes (GA's) outlined by Stellenbosch University [^SU-GAs] and the Engineering Council of South Africa [^ECSA-GAs]. These GA's incorporate high level characteristics previously considered as hard and soft skills. These GA's provide a valuable vision for what the next generation of graduation should look like. What is important to remeber is that assessement of GA's does not scale well with class sizes.
+
+[^SU-GAs]: SU, ‘Graduate Attributes of Stellenbosch University’. Accessed: Dec. 03, 2024. [Online]. Available: https://www.sun.ac.za/english/learning-teaching/student-affairs/about/graduate-attributes
+[^ECSA-GAs]: ‘Qualification Standard for Bachelor of Engineering Technology: NQF Level 7’, E-02-PT, 2016. [Online\]. Available: https://www.ecsa.co.za/education/EducationDocs/E-02-PT.pdf
+
+![Teaching-context](.\Teaching-context.svg)
+
+
+
+For students from less privileged backgrounds, the goal is to provide exposure to modern engineering tools and technologies, helping to level the playing field. For students with more resources, the emphasis is on understanding and communicating high-level concepts, regardless of the specific technology involved. This approach fosters a deeper grasp of core ideas and enhances their ability to convey complex concepts effectively.
+
+I actively integrate discussions on societal trends, such as sustainable development goals, into the curriculum, highlighting how current technologies can address these issues locally.
+
 ## Personal reflection
+
+
 
 From a young age, I was captivated by the natural world. Watching Sunday night documentaries and observing ants in the garden, I was fascinated by the stories of great scientists and their discoveries. I still marvel at the wonders of astronomy and how we imagine the cosmos in all its splendor.
 
@@ -17,8 +38,6 @@ However, I never felt truly validated until I could help others experience the s
 Academia has given me a strong sense of purpose and the chance to inspire the next generation of scientists. I am deeply grateful for the opportunities it has afforded me and am passionate about helping students navigate their own paths, no matter how unconventional they may be.
 
 ## Teaching philosophy
-
-I am fortunate to teach in one of the most challenging programs at one of the top universities in the country. These students already know how to read a textbook. From this perspective, my role is not merely to summarize content, but to help them realize projects that can benefit society.
 
 The societal implications of projects, people, and organizations are the ultimate purpose of all academic pursuits. Contributions at both professional and academic levels improve society, and it is crucial for us to regularly revisit this “why” in the classroom. Every graduate I mentor has the potential to improve countless lives, which inspires me to push beyond my own limits. Conversely, students must understand the potential impact of their success.
 
@@ -36,17 +55,7 @@ Creating a nurturing environment conducive to success is essential. While good i
 
 Developing individuals who can transform ideas into reality involves a delicate balance of nurturing and empowering, rather than merely instructing. By applying their skills, students grow both confident and competent. My goal is to create environments and opportunities for progressive learning, allowing students to exercise autonomy. “We grow through people and projects,” and these habits are best cultivated through practice, not lectures. Ultimately, my aim is to develop individuals to a point where they no longer need me and are fully equipped to make their own impact on the world. When I ask a complex, contextual exam question and receive meaningful answers, I know I have made a contribution towards a better society.
 
-## Context
 
-The challenge we face is that students enter our program with varying backgrounds and levels of experience. For instance, some students might have a strong foundation in computer programming from high school, while others may have only used email before starting university. Similarly, one student may own a virtual reality headset, whereas another might not even have a laptop.
-
-This diversity necessitates a curriculum that is inclusive, engaging, and constructive, catering to a wide range of social and experiential backgrounds.
-
-For students from less privileged backgrounds, the goal is to provide exposure to modern engineering tools and technologies, helping to level the playing field. For students with more resources, the emphasis is on understanding and communicating high-level concepts, regardless of the specific technology involved. This approach fosters a deeper grasp of core ideas and enhances their ability to convey complex concepts effectively.
-
-I actively integrate discussions on societal trends, such as sustainable development goals, into the curriculum, highlighting how current technologies can address these issues locally.
-
-As we strive to develop well-rounded, resilient, and impactful graduates, we adhere to the graduate attributes outlined by Stellenbosch University and the Engineering Council of South Africa. My approach includes using case studies to assess and promote these attributes, demonstrating the progress made and encouraging students to contribute positively to society.
 
 ### Professionals Shaping Society
 
