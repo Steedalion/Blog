@@ -1,16 +1,14 @@
  
 
-### Instruction Manual: Writing a Gap Analysis for Final-Year and Graduate Students
+# Instruction Manual: Writing a Gap Analysis for Final-Year and Graduate Students
 
-#### **Introduction: Using Literature Review as a Gap Analysis**
+## **Introduction: Using Literature Review as a Gap Analysis**
 
 A common challenge when starting a literature review is vague advice such as “read often, and read a lot,” which can lead to unfocused and inefficient use of time. To provide structure, this manual introduces the **gap analysis** approach, which transforms the literature review into a systematic process.
 
 By conducting a gap analysis, you create a tangible output: a **gap analysis table**. This table visually captures the current state of the field (state of the art) and identifies areas for further research. It also helps guide your project development, especially in fields like engineering where creating practical outcomes is essential.
 
-------
-
-#### **What Is a Gap Analysis Table?**
+## **What Is a Gap Analysis Table?**
 
 A gap analysis table organizes and summarizes existing work to highlight what has been done and what remains to be addressed. It uses two key dimensions:
 
@@ -23,9 +21,7 @@ A gap analysis table organizes and summarizes existing work to highlight what ha
      - **Categorical** (e.g., specific domains like Manufacturing, Mining, or Healthcare).
      - **Numerical Range** (e.g., operating temperature ranges such as “100-300°C”).
 
-------
-
-#### **Steps to Create a Gap Analysis Table**
+## **Steps to Create a Gap Analysis Table**
 
 1. **Identify Related Work**:
    Collect studies, frameworks, or solutions related to your research area. List these along the vertical axis.
@@ -40,7 +36,7 @@ A gap analysis table organizes and summarizes existing work to highlight what ha
 
 ------
 
-#### **Example of a Gap Analysis Table**
+## **Example of a Gap Analysis Table**
 
 | **Related Work** | **Feature 1** | **Feature 2** | **Feature 3** | **Domain**    | **Range** |
 | ---------------- | ------------- | ------------- | ------------- | ------------- | --------- |
@@ -56,7 +52,7 @@ This table demonstrates how your project:
 
 ------
 
-#### **Benefits of Using a Gap Analysis Table**
+## **Benefits of Using a Gap Analysis Table**
 
 1. **Clarifies the Research Gap**: The visual format makes it easier to communicate the novelty of your study.
 2. **Structures the Literature Review**: Helps organize the state of the art systematically.
