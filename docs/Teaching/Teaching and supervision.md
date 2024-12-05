@@ -10,8 +10,8 @@ On the other hand, the challenge we face is that students enter our program with
 
 As we strive to develop well-rounded, resilient, and impactful graduates, we adhere to the graduate attributes (GA's) outlined by Stellenbosch University [^SU-GAs] and the Engineering Council of South Africa [^ECSA-GAs]. These GA's incorporate high level characteristics previously considered as hard and soft skills. These GA's provide a valuable vision for what the next generation of graduation should look like. What is important to remeber is that assessement of GA's does not scale well with class sizes.
 
-[^SU-GAs]: SU, ‘Graduate Attributes of Stellenbosch University’. Accessed: Dec. 03, 2024. [Online]. Available: https://www.sun.ac.za/english/learning-teaching/student-affairs/about/graduate-attributes
-[^ECSA-GAs]: ‘Qualification Standard for Bachelor of Engineering Technology: NQF Level 7’, E-02-PT, 2016. [Online\]. Available: https://www.ecsa.co.za/education/EducationDocs/E-02-PT.pdf
+[^SU-GAs]: Stellenbosch University, ‘Graduate Attributes of Stellenbosch University’. Accessed: Dec. 03, 2024. [Online]. Available: https://www.sun.ac.za/english/learning-teaching/student-affairs/about/graduate-attributes
+[^ECSA-GAs]: Engineering Council of South Africa, ‘Qualification Standard for Bachelor of Engineering Technology: NQF Level 7’, E-02-PT, 2016. [Online\]. Available: https://www.ecsa.co.za/education/EducationDocs/E-02-PT.pdf
 
 ![Teaching-context](Teaching-context.svg)
 
@@ -22,8 +22,6 @@ For students from less privileged backgrounds, the goal is to provide exposure t
 I actively integrate discussions on societal trends, such as sustainable development goals, into the curriculum, highlighting how current technologies can address these issues locally.
 
 ## Personal reflection
-
-
 
 From a young age, I was captivated by the natural world. Watching Sunday night documentaries and observing ants in the garden, I was fascinated by the stories of great scientists and their discoveries. I still marvel at the wonders of astronomy and how we imagine the cosmos in all its splendor.
 
@@ -54,8 +52,6 @@ Creating a nurturing environment conducive to success is essential. While good i
 [^zpd]: Vygotsky, L. S. (1978c). The role of play in development. In M. Cole, V. John-Steiner, S. Scribner, & E. Souberman (Eds.), *Mind in society* (pp. 92–104). Cambridge, MA: MIT Press. (Unpublished manuscript 1933;  First Russian publication in 1966 in Voprosy Psikhologii, No.6).   [Google Scholar](https://www.tandfonline.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26publication_year%3D1978c%26pages%3D92-104%26author%3DL.%2BS.%2BVygotsky%26%26title%3DThe%2Brole%2Bof%2Bplay%2Bin%2Bdevelopment&doi=10.1080%2F03004430.2020.1843451&doiOfLink=&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
 
 Developing individuals who can transform ideas into reality involves a delicate balance of nurturing and empowering, rather than merely instructing. By applying their skills, students grow both confident and competent. My goal is to create environments and opportunities for progressive learning, allowing students to exercise autonomy. “We grow through people and projects,” and these habits are best cultivated through practice, not lectures. Ultimately, my aim is to develop individuals to a point where they no longer need me and are fully equipped to make their own impact on the world. When I ask a complex, contextual exam question and receive meaningful answers, I know I have made a contribution towards a better society.
-
-
 
 ### Professionals Shaping Society
 
