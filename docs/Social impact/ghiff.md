@@ -19,3 +19,5 @@ The estimated payback time for the system is six months, replacing the use of ca
 Micro-informal settlements are often neglected due to their size, yet their modest needs make them ideal candidates for the transition to renewable energy. The authors hope this work will prompt a rethinking of the challenges posed by sparse communities in the global south.
 
 This project was conceived and realized in partnership with [Lean Energy](http://www.leanenergy.co.za).
+
+Also see [linked-in post](https://www.linkedin.com/posts/clint-steed_solarpv-socialimpact-activity-7253640594592309249-_jym?utm_source=share&utm_medium=member_desktop).

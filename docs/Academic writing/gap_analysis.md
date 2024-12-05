@@ -1,6 +1,6 @@
  
 
-# Instruction Manual: Writing a Gap Analysis for Final-Year and Graduate Students
+# Writing a Gap Analysis for Final-Year and Graduate Students
 
 ## **Introduction: Using Literature Review as a Gap Analysis**
 
@@ -30,7 +30,7 @@ A gap analysis table organizes and summarizes existing work to highlight what ha
 3. **Populate the Table**:
    - For each related work, assess whether it addresses the features or factors.
    - Use binary indicators (e.g., Yes/No), categorical labels, or numerical ranges as appropriate.
-4. **Analyze the Table**:
+4. **Analyse the Table**:
    - Highlight gaps by identifying features or factors not covered in existing work.
    - Use this analysis to refine your research focus, ensuring your project adds value by addressing these gaps.
 
@@ -48,7 +48,7 @@ This table demonstrates how your project:
 
 1. **Shows Uniqueness**: It addresses features or combinations not covered by prior work.
 2. **Captures the State of the Art**: It reviews existing frameworks and studies.
-3. **Analyzes Critical Features**: It systematically evaluates the features relevant to the problem.
+3. **Analyses Critical Features**: It systematically evaluates the features relevant to the problem.
 
 ------
 
@@ -58,10 +58,10 @@ This table demonstrates how your project:
 2. **Structures the Literature Review**: Helps organize the state of the art systematically.
 3. **Guides Project Development**: Provides insights into key factors that should be addressed in your work.
 
- 
+##  Examples in literature
 
 See below an example of gap analysis in published articles.
 
 Table 1: Literature review and gap analysis summary [DOI: [10.3390/joitmc8010030](http://dx.doi.org/10.3390/joitmc8010030)]
 
-![img](file:///C:/Users/steed/AppData/Local/Temp/lu11516dh8xt5.tmp/lu11516dh8xt9_tmp_7185466029a2a29d.png) 
+![img](gap_analysis_example.png) 
