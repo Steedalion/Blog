@@ -45,11 +45,9 @@ Creating a nurturing environment conducive to success is essential. While good i
 
 ![](Cocreation.svg)
 
-*A model of maturity for individuals within an organisation[^Covey] applied to teaching starts with instructing the students (dependence),  having them perform independently (zone of proximal development) [^zpd], and finally having them co-create.*
+*A model of maturity for individuals within an organisation[^Covey] applied to teaching starts with instructing the students (dependence),  having them perform independently (zone of proximal development), and finally having them co-create.*
 
 [^Covey]: Covey, Stephen (1989). *The 7 Habits of Highly Effective People*.
-
-[^zpd]: Vygotsky, L. S. (1978c). The role of play in development. In M. Cole, V. John-Steiner, S. Scribner, & E. Souberman (Eds.), *Mind in society* (pp. 92–104). Cambridge, MA: MIT Press. (Unpublished manuscript 1933;  First Russian publication in 1966 in Voprosy Psikhologii, No.6).   [Google Scholar](https://www.tandfonline.com/action/getFTRLinkout?url=http%3A%2F%2Fscholar.google.com%2Fscholar_lookup%3Fhl%3Den%26publication_year%3D1978c%26pages%3D92-104%26author%3DL.%2BS.%2BVygotsky%26%26title%3DThe%2Brole%2Bof%2Bplay%2Bin%2Bdevelopment&doi=10.1080%2F03004430.2020.1843451&doiOfLink=&linkType=gs&linkLocation=Reference&linkSource=FULL_TEXT)
 
 Developing individuals who can transform ideas into reality involves a delicate balance of nurturing and empowering, rather than merely instructing. By applying their skills, students grow both confident and competent. My goal is to create environments and opportunities for progressive learning, allowing students to exercise autonomy. “We grow through people and projects,” and these habits are best cultivated through practice, not lectures. Ultimately, my aim is to develop individuals to a point where they no longer need me and are fully equipped to make their own impact on the world. When I ask a complex, contextual exam question and receive meaningful answers, I know I have made a contribution towards a better society.
 
