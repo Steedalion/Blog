@@ -13,5 +13,7 @@ This is where I share my bright ideas. This is in no way an egotistical exercise
 <center>
 [<img src="images/orcid.png" alt="https://orcid.org/0000-0001-7338-3696" style="width:50px;height:50px" />](https://orcid.org/0000-0001-7338-3696) [<img src="images/linkedIn.jpg" alt="https://www.linkedin.com/in/clint-steed/" style="width:50px;height:50px"  />](https://www.linkedin.com/in/clint-steed/) 
 
+
+
 If you would like to know more about me see my [Linked-in](https://www.linkedin.com/in/clint-steed/) or [ORCID](https://orcid.org/0000-0001-7338-3696) pages.
 
