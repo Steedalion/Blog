@@ -15,5 +15,3 @@ This is where I share my bright ideas. This is in no way an egotistical exercise
 
 
 
-If you would like to know more about me see my [Linked-in](https://www.linkedin.com/in/clint-steed/) or [ORCID](https://orcid.org/0000-0001-7338-3696) pages.
-
