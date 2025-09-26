@@ -10,14 +10,11 @@ I hold a Bachelors in Mechanical Engineering and a Masters in Mechatronic Engine
 
 This is where I share my (bright ideas. If you don't like what I'm saying feel free to [contact-me](mailto:csteed@ieee.org) recommending any changes. 
 
-<center>
-ORCID[<img src="images/orcid.png" alt="https://orcid.org/0000-0001-7338-3696" style="width:50px;height:50px" />](https://orcid.org/0000-0001-7338-3696) 
+[ORCID](https://orcid.org/0000-0001-7338-3696) 
 
+[LinkedIn](https://www.linkedin.com/in/clint-steed/) 
 
-
-
-
-LinkedIn[<img src="images/linkedIn.jpg" alt="https://www.linkedin.com/in/clint-steed/" style="width:50px;height:50px"  />](https://www.linkedin.com/in/clint-steed/) 
+[CV](CV and personal/STEED_NRF_CV.pdf)
 
 
 
