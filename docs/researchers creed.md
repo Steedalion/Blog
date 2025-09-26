@@ -6,6 +6,40 @@ As researchers, being funded by taxpayers comes with a profound responsibility t
 
 ## Research areas
 
+------
+
+### Virtual Prototyping of Manufacturing Assembly Systems
+
+Manufacturing assembly is a major generator of economic wealth, and human operators remain a crucial component of manufacturing systems. While Industry 4.0 was techno-centric, Industry 5.0 brings with it a redefined value system that is human-centric, with an emphasis on making technologies practical and applicable.
+
+In this line of research, we focus on applying bleeding-edge tools to create systems that support resilient manufacturing assembly, strengthening South Africa's atrophying manufacturing industry.
+
+Through virtual prototyping, we can develop tools appropriate for small-scale manufacturing, enabling SMEs to respond quickly to market changes and exploit modern tools and technologies in ways that larger businesses cannot.
+
+------
+
+### Virtual Reality Engineering Training and Education
+
+The demand for engineering training is scaling rapidly. Class sizes are increasing, and technology-driven disruptions will result in large-scale (re)training. Scaling engineering experience has become an urgent priority.
+
+From an engineering education perspective, virtual reality makes it possible to provide industry-like experiences when physical site visits are impractical or unsafe, while still allowing visceral and practical (pre)experiences. Gamification has been shown to improve knowledge retention in both staff and students, but it requires significant development time. Disruptions such as the transition from internal combustion engines to electric vehicles mean that large numbers of maintenance employees will need retraining.
+
+By developing virtual training and educational experiences, we can enable greater engagement with cutting-edge technologies that would otherwise be too expensive to experience at scale.
+
+------
+
+### The African Infrastructure Transition
+
+Africa is characterized by a large rural population that is sparsely distributed. This situation demands a re-examination of common infrastructure assumptions. Aging and expensive infrastructure, designed for centralized and globally integrated cultures, is often poorly suited to African contexts.
+
+The question here is simple: should we not consider African-centric solutions, thereby leapfrogging much of the proposed infrastructural change? A few examples come to mind. If you had the choice, would you not prefer to cook by fire?
+
+This line of investigation examines solutions to current problems in ways that respect local cultures and the people affected by them.
+
+> *“It is important to remember that technology should serve people, and not the other way around.”*
+>
+> 
+
 My research ambitions can be divided into three key areas: **technical**, **capacity-building**, and **social**.
 
 1. **Technical (Digital Twin)**

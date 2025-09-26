@@ -8,7 +8,7 @@ I hold a Bachelors in Mechanical Engineering and a Masters in Mechatronic Engine
 
 <center><img src="images/length.jpg" alt="Profile_pic" /></center> 
 
-This is where I share my bright ideas. This is in no way an egotistical exercise, so if you don't like what I'm saying feel free to [contact-me](mailto:csteed@ieee.org) recommending any changes. 
+This is where I share my (bright ideas. If you don't like what I'm saying feel free to [contact-me](mailto:csteed@ieee.org) recommending any changes. 
 
 <center>
 ORCID[<img src="images/orcid.png" alt="https://orcid.org/0000-0001-7338-3696" style="width:50px;height:50px" />](https://orcid.org/0000-0001-7338-3696) 

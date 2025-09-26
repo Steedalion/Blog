@@ -1,0 +1,7 @@
+# Towards a unified open energy and information infrastructure for sparsely populated areas
+
+Much of sub saharan africa is characterized by small distributed sparesely populated areas. Historically, energy was first introducted, then informaiton systems such as the internet. In much of Southern Africa however, informaiton systems and being introduced more rapidly than energy systems due to satalite communication and the low cost of smart phones. This probes a deeper investigation into a unified infrastructure. After all, "If we could redesign our current cities, would we not make them differently". 
+
+With Africa, we have that chance. The idea of centralized infrastuctures designed for scale suggest that technology dictates the living path to human development. If we instead design technology and infrastructure to respect the culture and current living circumstances of these communities, then we place the human as our first priority. After all, "Most people living in a modern city, want to take holidays in the rural life." is it not our obligation to preserve this way of being that is so sacred.
+
+This line of investigation then aims to develop a unified energy and information infrastructure that addresses the needs of these sparesly populated areas. By applying Design and Systems Engineering from first principles to resolve users actual needs (not our perspective on the future), we can utilise technology in a way that will meet the users current needs, while designing for short-medium term expansion.
