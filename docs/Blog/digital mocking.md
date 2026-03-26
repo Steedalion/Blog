@@ -1,10 +1,17 @@
+---
+title: Digital Mocking
+date: 2026-03-26
+tags: [Digital Twin, Simulation, Industry 4.0]
+description: An introduction to digital mocking patterns in cyber-physical systems.
+---
+
 # Digital mocking 
 
 Mocking involves using a model to test or develop a system component under specific conditions (state). Typically a mock component is substituted for a production component through a standardized interface. This has the effect of testing the system response under a specific state.
 
 An interface hides the substitution making the mock indistinguishable from the actual component. 
 
-![mocking-db-example](C:\Users\steed\Nextcloud6\Blog\blog\docs\images\mocking-db-example.png)
+![mocking-db-example](../images/mocking-db-example.png)
 The database (DB) example illustrates how different states of a DB are tested without modifying the production DB. This allows testing and development of an empty, full, or locked DB without disrupting production.
 
 ## Digital mocking
