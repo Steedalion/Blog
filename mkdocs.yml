@@ -1,4 +1,6 @@
 site_name: Dr. Clint Steed
+theme:
+  name: material
 markdown_extensions:
   - footnotes
 plugins:
