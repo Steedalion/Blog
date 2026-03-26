@@ -1,11 +1,12 @@
 site_name: Dr. Clint Steed
-theme:
-  name: material
 markdown_extensions:
   - footnotes
 plugins:
   - search
   - tags
   - htmlproofer:
-      check_external_urls: false
+      raise_error_excludes:
+        403: ['*']
+        404: ['*']
+        999: ['*']
 
