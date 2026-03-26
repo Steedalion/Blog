@@ -3,17 +3,16 @@
 **Duration:** 25 August – 26 March  
 **Location:** Stellenbosch University & surrounding communities  
 
-## Overview
-Timo completed a research stay focused on sustainable energy solutions for underserved communities. His work contributed directly to an academic research paper.
+Timo  was a third year student from [HSD](https://www.hs-duesseldorf.de/en) studying energy engineering. He completed a 6 month research stay focused on sustainable energy solutions for underserved communities. His work contributed directly to an academic research paper.
 
-![](/home/steed/Documents/Blog/docs/Short Term Research Exchange/PHOTO-2026-03-25-16-21-34.jpg)
+![](./PHOTO-2026-03-25-16-21-34.jpg)
 
-## Project Work
+## Academic Project Work
 During his stay, Timo:
 - Designed, built, and installed **Solar Home Systems (SHS)** for underserved communities  
 - Contributed to improving **energy access at a household level** through practical implementation  
 - Gained hands-on experience in decentralized energy system deployment  
-- Co-developed and contributed to the academic paper [Design and Validation of Scalable Solar Home Systems for Energy Access in Rural Nano-Communities](/.Timo Dietrich Paper.pdf)
+- Co-developed and contributed to the academic paper [Design and Validation of Scalable Solar Home Systems for Energy Access in Rural Nano-Communities](./Timo Dietrich Paper.pdf)
 - Prepared and delivered a [presentation](./Timo Dietrich presentation.pdf) based on his project work  
 
 ## Community Work
