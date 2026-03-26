@@ -6,4 +6,5 @@ markdown_extensions:
 plugins:
   - search
   - tags
+  - htmlproofer
 

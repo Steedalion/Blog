@@ -7,35 +7,52 @@ jobs:
     steps:
       - run: echo "testing"
 
-  deploy-gh:
+  build-and-test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - run: git branch
-      - run: pwd
-      - run: ls -a
       - run: mkdir -p ./docs/deploy
-
       - run: echo "The branch is ${{ github.ref }} by ${{ github.actor }}" >> ./docs/deploy/info.md
-
       - run: echo "MY_DATE=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
-
       - run: echo "${{ env.MY_DATE }}" >> ./docs/deploy/info.md
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'  # Specify the exact version if needed
+          python-version: '3.x'
 
-      - name: Install mkdocs in virtual environment
+      - name: Install dependencies
         run: |
           python -m venv .venv
           source .venv/bin/activate
-          pip install mkdocs mkdocs-material
+          pip install mkdocs mkdocs-material mkdocs-htmlproofer-plugin
 
-      - name: Build documentation with mkdocs
+      - name: Build and validate documentation
+        run: |
+          source .venv/bin/activate
+          mkdocs build --strict
+
+  deploy-gh:
+    runs-on: ubuntu-latest
+    needs: build-and-test
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install mkdocs mkdocs-material mkdocs-htmlproofer-plugin
+
+      - name: Deploy documentation
         run: |
           source .venv/bin/activate
           mkdocs gh-deploy --force
