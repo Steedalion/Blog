@@ -1,3 +1,12 @@
+---
+title: Researcher's Creed
+description: A statement of researcher responsibility — covering teaching, industry collaboration, and forward-looking research for social benefit.
+tags:
+  - research
+  - philosophy
+  - education
+---
+
 As researchers, being funded by taxpayers comes with a profound responsibility to ensure that our work generates the greatest social benefit. We achieve this in multiple ways:
 
 1. **Teaching**: It is our duty to ensure that the students we graduate possess the skills and knowledge to contribute positively to society. In South Africa specifically, this extends to addressing the historical inequities by actively representing underrepresented groups and empowering the next generation to dream bigger and aim higher. Education is a critical tool in creating a more equitable society.

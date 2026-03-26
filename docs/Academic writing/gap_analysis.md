@@ -1,3 +1,11 @@
+---
+title: Writing a Gap Analysis
+description: A guide for final-year and graduate students on conducting literature gap analyses using systematic tables to identify research opportunities.
+tags:
+  - academic writing
+  - research methods
+  - literature review
+---
  
 
 # Writing a Gap Analysis for Final-Year and Graduate Students

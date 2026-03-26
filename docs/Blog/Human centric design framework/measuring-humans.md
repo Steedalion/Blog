@@ -1,3 +1,12 @@
+---
+title: Measuring Humans — Challenges and Considerations
+description: Exploring the technical and ethical challenges of measuring and modelling human operators in manufacturing systems.
+tags:
+  - human factors
+  - measurement
+  - manufacturing
+  - ethics
+---
 While data-based applications for machines are becoming more prevalent, their human counterparts have lagged behind. This is largely due to challenges in measuring and modeling.
 
 # Measuring Challenges

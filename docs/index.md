@@ -1,3 +1,11 @@
+---
+title: About Me
+description: Dr. Clint Steed is an engineering lecturer at Stellenbosch University specialising in virtual prototyping, human-centric manufacturing, and assembly systems.
+tags:
+  - about
+  - profile
+---
+
 # About me
 
 I am an engineering lecturer at the University of Stellenbosch, South Africa. 

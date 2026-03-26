@@ -1,3 +1,11 @@
+---
+title: Thesis Structure
+description: Explains the design science research methodology and investigation structure used for human-centric assembly systems research across four supporting chapters.
+tags:
+  - thesis
+  - research methods
+  - design science
+---
 # Thesis structure
 
 Implementing human-centric systems are difficult to quantify. After all how human-centric is a solution? This complexity arises from the interaction of socio-technical problems. Human's are highly adaptive to their environment therefore changing technical aspects of the system may result in behavioural change which change the system altogether. For example, in South Africa scheduled power cuts were employed to reduce electricity demand, resulting in rapid adoption of renewable energy and battery packs[]. These new technologies resulted in higher surges when returning/cutting power, ultimately damaging equipment, further increasing power cuts, resulting in an unstable feedback loop. This resembles our earlier reference to the cost of industrial farming[].

@@ -1,3 +1,12 @@
+---
+title: Virtual Mocking — Abstract
+description: Reference architecture for developing human assembly stations using VR, digital twin patterns, and human-centric design principles.
+tags:
+  - VR
+  - digital twin
+  - manufacturing
+  - research
+---
 # Abstract
 Modern manufacturing systems include digital twin (Real<->Simulation) and Cyber-physical (Real<->intelligent) paradigms. Yet there is a clear gap regarding how to design these systems to incorporate humans. Head-mounted-display virutal realitys increased feasibility provides a rich new human-machine interface to facilitate human centric design through emersive simulation. Yet many system designers/developers are not experienced in using these technologies. Reference architectures and design patterns are systems engineering tools that has eased previous paradigm shifts by facilitating modularity, best practices, and common terminology. 
 

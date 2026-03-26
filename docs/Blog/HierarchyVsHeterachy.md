@@ -1,3 +1,12 @@
+---
+title: Hierarchical vs Heterarchical Networks
+description: Comparing hierarchical and heterarchical network structures in control systems, covering flexibility, scalability, and the publisher-subscriber pattern.
+tags:
+  - networking
+  - IoT
+  - SCADA
+  - architecture
+---
 # Hierarchical vs Heterarchical networks
 
 Two distinct network structures exist.  In Hierarchical networks, elements are connected in specific network structures with supervisors coordinating communication between subordinates. This leads to supervisory elements possessing different levels of control. Hierarchical networks on the other hand are flat/horizontal, where all elements contain the same level of authority/control.
@@ -9,7 +18,7 @@ Hierarchical networks are prevalent in SCADA systems. In such systems, multiple 
 1. **Limited Flexibility**: Control and monitoring cannot be flexibly aggregated across the network. Devices under different supervisors or levels cannot easily communicate due to the lack of direct network paths.
 2. **Scalability Challenges**: Expanding the system's scale is not straightforward. Introducing a new supervisor to the network necessitates complex configurations and adjustments.
 
-![hierarchical](HierarchyVsHeterachy\hierarchical.bmp)
+![hierarchical](HierarchyVsHeterachy/hierarchical.bmp)
 
 ## Heterarchical networks 
 
@@ -21,7 +30,7 @@ Heterarchical networks, commonly found in IoT environments, operate on a flat st
 
   
 
-![heter](HierarchyVsHeterachy\heter.bmp)
+![heter](HierarchyVsHeterachy/heter.bmp)
 
 ## Dynamic network topology
 
@@ -29,9 +38,9 @@ Heterarchical networks facilitate dynamic network topology, allowing for the rec
 
 
 
-![heter](HierarchyVsHeterachy\dyn_networks.bmp)
+![heter](HierarchyVsHeterachy/dyn_networks.bmp)
 
 The Publisher-Subscriber model, also known as Pub-Sub model, is a  messaging pattern used in distributed systems for communication between  various components or services. In this model, there are three main  entities: publishers, subscribers, and a message broker or middleware. The publisher-subscriber model is a good example of a dynamic network implementation. Due to the loose coupling subscibers
 
-![heter](HierarchyVsHeterachy\pubsub.bmp)
+![heter](HierarchyVsHeterachy/pubsub.bmp)
 

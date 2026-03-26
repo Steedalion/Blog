@@ -1,3 +1,13 @@
+---
+title: VR Classroom Framework
+description: Evaluating VR integration in engineering education by measuring student affective responses during virtual facility layout exercises.
+tags:
+  - VR
+  - education
+  - engineering
+  - research
+---
+
 # Enhancing Engineering Education: Evaluating VR Integration and Student Affective Responses
 
 **Background:** The affordability and accessibility of virtual reality (VR) technology are driving its increased use in education. While VR has the potential to enhance learning, it also presents challenges.

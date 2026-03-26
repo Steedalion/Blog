@@ -1,3 +1,12 @@
+---
+title: Towards Unified Infrastructure for Sparsely Populated Areas
+description: Proposes a unified open energy and information infrastructure for sparsely populated African regions that respects local cultures and community needs.
+tags:
+  - energy access
+  - infrastructure
+  - Africa
+  - community
+---
 # Towards a unified open energy and information infrastructure for sparsely populated areas
 
 Much of sub saharan africa is characterized by small distributed sparesely populated areas. Historically, energy was first introducted, then informaiton systems such as the internet. In much of Southern Africa however, informaiton systems and being introduced more rapidly than energy systems due to satalite communication and the low cost of smart phones. This probes a deeper investigation into a unified infrastructure. After all, "If we could redesign our current cities, would we not make them differently". 

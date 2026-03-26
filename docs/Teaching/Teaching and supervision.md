@@ -1,5 +1,14 @@
 
 
+---
+title: Teaching and Supervision
+description: Teaching philosophy and supervision approach centred on building student confidence, conviction, and competence through active engagement and professional development.
+tags:
+  - teaching
+  - supervision
+  - education
+---
+
 # Teaching and supervision
 
 ## Context

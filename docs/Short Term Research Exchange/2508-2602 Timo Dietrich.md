@@ -1,3 +1,13 @@
+---
+title: Timo Dietrich — Research Stay Summary
+description: Summary of a 6-month research exchange by German engineering student Timo Dietrich, focused on scalable solar home systems for rural nano-communities.
+tags:
+  - research exchange
+  - solar
+  - energy access
+  - student
+  - nano-communities
+---
 # Timo Dietrichs’s Research Stay Summary
 
 **Duration:** 25 August – 26 March  

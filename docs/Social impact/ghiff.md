@@ -1,3 +1,13 @@
+---
+title: GHIFF — Solar Solutions for Micro-Settlements
+description: A solar PV system project designed for micro-informal settlement communities in Stellenbosch, achieving a 6-month payback period.
+tags:
+  - solar
+  - social impact
+  - energy access
+  - community
+  - nano-communities
+---
 # Empowering Communities: Solar Solutions for Stellenbosch’s Micro-Settlements
 
 Micro-informal settlements are communities that have emerged in unexpected areas. Due to their small size and location, it is difficult for local municipalities to justify investment in infrastructure, leaving these communities without electricity. However, their modest energy needs present an ideal opportunity for low-cost off-grid systems.

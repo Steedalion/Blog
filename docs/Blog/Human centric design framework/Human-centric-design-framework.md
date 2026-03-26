@@ -1,3 +1,12 @@
+---
+title: The Need for Human-Centric Design Frameworks in Manufacturing
+description: Argues for balancing economic metrics with human-centred design in manufacturing, drawing on historical examples including the Green Revolution and sustainability frameworks.
+tags:
+  - human factors
+  - design
+  - manufacturing
+  - sustainability
+---
 # The need for human centric design frameworks in manufacturing
 
 ## The agenda of better metrics

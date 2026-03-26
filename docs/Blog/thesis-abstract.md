@@ -1,3 +1,12 @@
+---
+title: Thesis Abstract
+description: Overview of doctoral research investigating human-centric manufacturing systems development via VR, covering measurement validation, design optimisation, and active learning.
+tags:
+  - thesis
+  - VR
+  - manufacturing
+  - research
+---
 # Abstract
 
 Despite recent advances in disruptive technologies like automation, machine learning, artificial intelligence, and virtual reality, humans remain a precious resource for manufacturing assembly. Paradigms such as Industry 4.0, IoT, digital twin, and cyber-physical systems emphasize the convergence of connectivity, integration, high-fidelity simulation, and heterarchical systems architectures to develop complex integrated systems. More recently, Industry 5.0 places the human operator at the center of system design, but due to human-machine interfaces, developing such systems is challenging. The introductory chapters describe the changing role of the operator in manufacturing and motivate the development of human-centric solutions.

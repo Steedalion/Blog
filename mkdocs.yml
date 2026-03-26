@@ -1,4 +1,7 @@
 site_name: Dr. Clint Steed
 markdown_extensions:
   - footnotes
+plugins:
+  - search
+  - tags
 
